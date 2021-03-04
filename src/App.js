@@ -4,8 +4,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h1>React Git Demo</h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+         Working on learning Git + React
         </p>
         <a
           className="App-link"
